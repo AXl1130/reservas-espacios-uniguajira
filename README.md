@@ -3,9 +3,9 @@
 Proyecto desarrollado para el Segundo Corte de la asignatura **Programación Avanzada**. Este sistema permite la gestión integral de reservas de espacios universitarios, garantizando la integridad de los horarios y facilitando la administración mediante herramientas visuales y reportes.
 
 ## Integrantes
-- Yamal Quintero
 - Alexander Arpuhaina
 - Cristian Padilla
+- yamal quitero
 
 ## Requisitos del Proyecto (Entregables)
 El sistema cumple con el 100% de los requisitos solicitados:
